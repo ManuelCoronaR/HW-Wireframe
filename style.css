@@ -2,6 +2,16 @@
     box-sizing: border-box;
     text-align: center;
   }
+  body {
+    background-color: rgb(100, 98, 98);
+    margin-left: 165px;
+    margin-bottom: 40px;
+    margin-right: 200px;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(100, 98, 98);
+
+}
 header {
     background-color: white;
     padding: 40px;
@@ -48,16 +58,7 @@ footer {
         clear: left;
         overflow: auto;
      }
-body {
-      background-color: rgb(100, 98, 98);
-      margin-left: 165px;
-      margin-bottom: 40px;
-      margin-right: 200px;
-      text-align: center;
-      font-size: 24px;
-      color: rgb(100, 98, 98);
 
-  }
   .box {
       background-color: white;
       padding: 15px;
